@@ -1,6 +1,7 @@
 # Issues
 
-**TODO: Add description**
+Elixir project used to check issues using github API
+Tutorial Project
 
 ## Installation
 
